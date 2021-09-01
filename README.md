@@ -14,7 +14,7 @@
 
 <details>
   <summary><b>Languages 🚩</b></summary>
-  
+  <br>
   
   - HTML
   - CSS
