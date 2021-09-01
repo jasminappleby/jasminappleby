@@ -42,15 +42,15 @@
 
 ## GitHub Stats
 
-### General Account Stats
+### General Account Stats:
 
 <a href="https://github.com/jasminappleby/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasminappleby&show_icons=true&include_all_commits=true&theme=cobalt" alt="Jasmin's github stats" />
 </a>
 <br>
 
-### Most used languages
+### Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminappleby&layout=compact&theme=cobalt)](https://github.com/jasminappleby/github-readme-stats)
-
+> Solely based upon what I have pushed to my GitHub account
 
