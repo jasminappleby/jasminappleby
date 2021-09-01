@@ -10,5 +10,31 @@
 
 [![YouTube Channel Subscribers: Jasmin Appleby Holdham](https://img.shields.io/youtube/channel/subscribers/UCZosros5T88Yb1Z-sd7ZVKg?label=Subscribe&style=social)](https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)
 
-### Languages and Skills 
+### Languages and Tools
+
+<details>
+  <summary><b>Languages 🚩</b></summary>
+  
+  - HTML
+  - CSS
+  - JavaScript
+  - Java
+  - Scala
+  - SQL
+  - MongoDB
+
+</details>
+
+<details>
+  <summary><b>Tools ⚙️</b></summary>
+  
+  - VSCode
+  - Visual Studios
+  - Eclipse 
+  - Atom
+  - Node.js
+  - npm dependencies (Jest, Nodemon, Supertest, Express.js)
+  - Docker
+ 
+</details>
 
