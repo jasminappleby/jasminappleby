@@ -4,7 +4,7 @@
 - BSc Computer Science Graduate from De Montfort University 🎓
 - Achieved a 2.1 👩🏼‍🎓
 
-## Come & Find me! ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+## Come & Find me! ![Scared Hiding Sticker By CsaK](https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif)
 
 [![Linkedin: Jasmin Appleby Holdham](https://img.shields.io/badge/-jasminapplebyholdham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)](https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)
 
