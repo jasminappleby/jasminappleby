@@ -1,4 +1,4 @@
-### Hi, I'm Jasmin Appleby Holdham! 
+# Hi, I'm Jasmin Appleby Holdham! 
 
 - Trainee Full Stack Engineer at Futureproof ♾️
 - BSc Computer Science Graduate from De Montfort University 🎓
