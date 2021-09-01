@@ -40,8 +40,13 @@
   
 </details>
 
-## Github Stats
+## GitHub Stats
 
 <a href="https://github.com/jasminappleby/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasminappleby&show_icons=true&include_all_commits=true&theme=cobalt" alt="Jasmin's github stats" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminappleby&layout=compact&theme=cobalt)](https://github.com/jasminappleby/github-readme-stats)
+
+> These stats are only based on projects I have on GitHub! 
+
