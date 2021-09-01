@@ -5,7 +5,7 @@
 
 ### Come and find me!
 
-[![Linkedin: jasminappleby](https://img.shields.io/badge/-jasminappleby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasminappleby/)](https://www.linkedin.com/in/jasminappleby/)
+[![Linkedin: jasminappleby](https://img.shields.io/badge/-jasminappleby-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)](https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)
 
 ### Languages and Skills 
 
