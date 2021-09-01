@@ -26,10 +26,10 @@
 
   
 </details>
-
+<br>
 <details>
   <summary><b>Tools ⚙️</b></summary>
-  
+    <br>
   
   - VSCode
   - Visual Studios
