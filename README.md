@@ -15,6 +15,7 @@
 <details>
   <summary><b>Languages 🚩</b></summary>
   
+  
   - HTML
   - CSS
   - JavaScript
@@ -23,10 +24,12 @@
   - SQL
   - MongoDB
 
+  
 </details>
 
 <details>
   <summary><b>Tools ⚙️</b></summary>
+  
   
   - VSCode
   - Visual Studios
@@ -36,5 +39,6 @@
   - npm dependencies (Jest, Nodemon, Supertest, Express.js)
   - Docker
  
+  
 </details>
 
