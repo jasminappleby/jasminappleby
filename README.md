@@ -2,6 +2,7 @@
 
 - Trainee Full Stack Engineer at Futureproof ♾️
 - BSc Computer Science Graduate from De Montfort University 🎓
+- Achieved a 2.1 👩🏼‍🎓
 
 ### Come and find me!
 
