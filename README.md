@@ -11,7 +11,7 @@
 [![YouTube Channel Subscribers: Jasmin Appleby Holdham](https://img.shields.io/youtube/channel/subscribers/UCZosros5T88Yb1Z-sd7ZVKg?label=Subscribe&style=social)](https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)
 
 ### Languages and Tools
-
+<br>
 <details>
   <summary><b>Languages 🚩</b></summary>
   <br>
@@ -26,7 +26,6 @@
 
   
 </details>
-<br>
 <details>
   <summary><b>Tools ⚙️</b></summary>
     <br>
