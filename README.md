@@ -40,3 +40,8 @@
   
 </details>
 
+## Github Stats
+
+<a href="https://github.com/jasminappleby/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasminappleby&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jasmin's github stats" />
+</a>
