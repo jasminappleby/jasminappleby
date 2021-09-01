@@ -5,7 +5,7 @@
 - Achieved a 2.1 👩🏼‍🎓
 
 ## Come & Find me!
-  <p float ="left">
+  <p float ="right">
     <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" alt="Scared Hiding Sticker By CsaK" width="100" height="100"/>
   </p>
   
