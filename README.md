@@ -23,6 +23,7 @@
   - Scala
   - SQL
   - MongoDB
+  - Python
 
   
 </details>
