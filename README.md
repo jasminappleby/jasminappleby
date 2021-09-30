@@ -24,6 +24,7 @@
   - SQL
   - MongoDB
   - Python
+  - Django
 
   
 </details>
