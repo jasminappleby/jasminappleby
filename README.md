@@ -54,7 +54,7 @@
 
 ### In Depth Stats: 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&fire=DD0087)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&background=193549)](https://git.io/streak-stats)
 
 ### Most Used Languages:
 
