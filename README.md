@@ -8,7 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=jasminappleby&color=c476c2&style=flat-square&label=GitHub+Profile+Views)
 
 ## Come & Find me!
-<img src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="480" height="394" alt="Piplup and Ditto"/>
 
 <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" alt="Scared Hiding Sticker By CsaK" width="100" height="100"/>
 
@@ -48,6 +47,8 @@
  
   
 </details>
+
+<img src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="480" height="394" alt="Piplup and Ditto"/>
 
 ## GitHub Stats
 
