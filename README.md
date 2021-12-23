@@ -8,6 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=jasminappleby&color=c476c2&style=flat-square&label=GitHub+Profile+Views)
 
 ## Come & Find me!
+<div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="https://giphy.com/embed/aIHSZ2KQ8scknneeq9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/pokemon-ditto-piplup-aIHSZ2KQ8scknneeq9">via GIPHY</a></p>
 <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" alt="Scared Hiding Sticker By CsaK" width="100" height="100"/>[![Linkedin: Jasmin Appleby Holdham](https://img.shields.io/badge/-jasminapplebyholdham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)](https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/) 
 [![YouTube Channel Subscribers: Jasmin Appleby Holdham](https://img.shields.io/youtube/channel/subscribers/UCZosros5T88Yb1Z-sd7ZVKg?label=Subscribe&style=social)](https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)
 
