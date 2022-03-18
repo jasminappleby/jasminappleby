@@ -1,7 +1,6 @@
 # Hi, I'm Jasmin Appleby Holdham! 
 
-- Full Stack Engineer at Futureproof ♾️ 
-- On-site at Leidos 🔐
+- Software Engineer 
 - BSc Computer Science Graduate from De Montfort University 🎓
 - Achieved a 2.1 👩🏼‍🎓
 
