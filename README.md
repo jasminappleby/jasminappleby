@@ -20,7 +20,7 @@
 ## Languages & Tools
 
 <details>
-  <summary><b>Tech</b></summary>
+  <summary><b>Technologies I current know **and use**</b></summary>
   <br>
   
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
