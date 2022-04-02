@@ -12,9 +12,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)](https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)
 
-[![YouTube](https://img.shields.io/badge/<Jasmin>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)](https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)](https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)
 
-[![Twitter](https://img.shields.io/badge/jasminapplebyig-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jasminapplebyig)](https://twitter.com/jasminapplebyig)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/jasminapplebyig)](https://twitter.com/jasminapplebyig)
   
   
 ## Languages & Tools
