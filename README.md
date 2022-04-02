@@ -47,6 +47,7 @@
   ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
   
   <img src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="100" alt="Piplup and Ditto"/>
+  
   > my favourite pokemon
   
 
