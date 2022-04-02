@@ -9,8 +9,15 @@
 ## Come & Find me!
 
 <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" alt="Scared Hiding Sticker By CsaK" width="100" height="100"/>[![Linkedin: Jasmin Appleby Holdham](https://img.shields.io/badge/-jasminapplebyholdham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)](https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/) 
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![YouTube](https://img.shields.io/badge/<Jasmin>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
 [![YouTube Channel Subscribers: Jasmin Appleby Holdham](https://img.shields.io/youtube/channel/subscribers/UCZosros5T88Yb1Z-sd7ZVKg?label=Subscribe&style=social)](https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)
 
+![Twitter](https://img.shields.io/badge/<jasminapplebyig>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  
+  
   
 ## Languages & Tools
 
@@ -20,7 +27,17 @@
   <summary><b>Languages 🚩</b></summary>
   <br>
   
-  [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   - HTML
   - CSS
   - JavaScript
