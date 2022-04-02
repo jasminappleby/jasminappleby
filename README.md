@@ -4,7 +4,7 @@
 - BSc Computer Science Graduate from De Montfort University 🎓
 - Achieved a 2.1 👩🏼‍🎓
 
-![](https://komarev.com/ghpvc/?username=jasminappleby&color=c476c2&style=flat-square&label=GitHub+Profile+Views)
+![](https://komarev.com/ghpvc/?username=jasminappleby&color=c476c2&style=for-the-badge&label=GitHub+Profile+Views)
 
 ## Come & Find me!
 
