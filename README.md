@@ -19,8 +19,6 @@
   
 ## Languages & Tools
 
-<img src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="240" height="197" alt="Piplup and Ditto"/>
-
 <details>
   <summary><b>Tech</b></summary>
   <br>
@@ -47,25 +45,24 @@
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) 
   ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+  
+  <img src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="100" alt="Piplup and Ditto"/>
+  > my favourite pokemon
+  
 
 </details>
 
 ## GitHub Stats
 
-### General Account Stats:
+### In Depth Stats:
 
 <a href="https://github.com/jasminappleby/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasminappleby&show_icons=true&include_all_commits=true&theme=cobalt" alt="Jasmin's github stats"/>
 </a>
-<br>
-
-### In Depth Stats: 
+<br> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&background=193549)](https://git.io/streak-stats)
 
-### Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminappleby&layout=compact&theme=cobalt)](https://github.com/jasminappleby/github-readme-stats)
-> Solely based upon what I have pushed to my GitHub account
 
 
