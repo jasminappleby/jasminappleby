@@ -22,7 +22,7 @@
 <img src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="240" height="197" alt="Piplup and Ditto"/>
 
 <details>
-  <summary><b>Languages 🚩</b></summary>
+  <summary><b>Tech</b></summary>
   <br>
   
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
