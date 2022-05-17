@@ -20,7 +20,7 @@ Click on the emojis below to see all the technologies I current know. I use most
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
   
-  <img align="right" src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="75" hspace="105" alt="Piplup and Ditto">
+  <img align="right" src="https://media4.giphy.com/media/aIHSZ2KQ8scknneeq9/giphy.gif?cid=ecf05e479zfuqee7xnslgn9jh0siv9cimo83m0nag4tf1pub&rid=giphy.gif" width="250" hspace="105" alt="Piplup and Ditto">
    
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
