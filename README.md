@@ -37,6 +37,14 @@ Click on the emojis below to see all the technologies I current know. I use most
 </details>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=3" />
+  </a>
+</p>
+
+
+
 ## GitHub Stats
 
 <a href="https://github.com/jasminappleby/github-readme-stats">
