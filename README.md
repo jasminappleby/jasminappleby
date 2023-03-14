@@ -39,7 +39,7 @@ Click on the emojis below to see all the technologies I current know. I use most
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=3" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap&perline=3" />
   </a>
 </p>
 
