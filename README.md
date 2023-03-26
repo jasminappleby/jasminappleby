@@ -1,12 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C476C2&multiline=true&width=500&height=100&lines=Hey%2C+I'm+Jasmin!+;A+Software+Dev+from+the+UK!)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/60107486/227771585-22b426ea-aef0-442c-966a-6519e6d853a7.jpg" width=100%/>
 
 ![](https://komarev.com/ghpvc/?username=jasminappleby&color=c476c2&style=for-the-badge&label=GitHub+Profile+Views)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)](https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)](https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg)
+<a href="https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/"/>
+</a>
+<a href="https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCZosros5T88Yb1Z-sd7ZVKg"/>
+</a>
 
 ## Languages & Tools
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,mysql,mongodb,html,css,js,java,python,bootstrap&theme=dark&perline=5"/>
@@ -16,7 +20,8 @@
 ## GitHub Stats
 
 <a href="https://github.com/jasminappleby/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasminappleby&show_icons=true&include_all_commits=true&theme=cobalt" alt="Jasmin's github stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jasminappleby&show_icons=true&include_all_commits=true&theme=codeSTACKr" alt="Jasmin's github stats"/>
 </a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&background=193549)](https://git.io/streak-stats)
+<a href="https://github.com/jasminappleby/github-readme-stats">
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=codeSTACKr&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt=""/>
+</a>
