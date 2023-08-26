@@ -1,6 +1,3 @@
-<img src="https://user-images.githubusercontent.com/60107486/227771828-8b6c0b68-aca1-49de-88b9-f75fdbf9fc6f.png" width=100%/>
-
-
 ![](https://komarev.com/ghpvc/?username=jasminappleby&color=c476c2&style=for-the-badge&label=GitHub+Profile+Views)
 
 <a href="https://www.linkedin.com/in/jasmin-appleby-holdham-67150814b/">
