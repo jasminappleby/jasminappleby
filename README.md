@@ -1,4 +1,4 @@
-<img src="![image](https://github.com/jasminappleby/jasminappleby/assets/60107486/002ecd26-7c41-48f1-81c0-8eb9477a6430)"/>
+![image](https://github.com/jasminappleby/jasminappleby/assets/60107486/002ecd26-7c41-48f1-81c0-8eb9477a6430)
 
 
 ![](https://komarev.com/ghpvc/?username=jasminappleby&color=c476c2&style=for-the-badge&label=GitHub+Profile+Views)
