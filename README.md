@@ -1,7 +1,7 @@
 ![image](https://github.com/jasminappleby/jasminappleby/assets/60107486/002ecd26-7c41-48f1-81c0-8eb9477a6430)
 
 
-![](https://komarev.com/ghpvc/?username=jasminappleby&color=FFC7D2![Uploading image.png…]()
+![](https://komarev.com/ghpvc/?username=jasminappleby&color=ffc7d2![Uploading image.png…]()
 ![Uploading image.png…]()
 &style=for-the-badge&label=GitHub+Profile+Views)
 
