@@ -11,19 +11,14 @@
 </a>
 
 ## Languages & Tools
-  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,mysql,mongodb,postgresql,html,css,js,java,python,bootstrap,git&theme=dark&perline=4"/>
-  </a>
-</p>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,mysql,mongodb,postgresql,html,css,js,java,python,bootstrap,git&theme=dark&perline=4"/>
+</a>
+
 
 ## GitHub Stats
 
-<a href="https://github.com/jasminappleby/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jasminappleby&show_icons=true&include_all_commits=true&theme=rose" alt="Jasmin's github stats"/>
-</a>
-<br>
 <a href="https://github.com/jasminappleby/github-readme-stats">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=rose&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt=""/>
 </a>
