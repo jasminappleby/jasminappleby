@@ -22,3 +22,8 @@
 <a href="https://github.com/jasminappleby/github-readme-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=rose&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt=""/>
 </a>
+
+
+## Solar Sounds - NASA SpaceApps Exeter 2023 Winners!
+
+Check out my contribution to the winning group project at the Exeter NASA SpaceApps <a href="https://github.com/jamesmungall/sonification">here</href>.
