@@ -13,7 +13,7 @@
 ## Languages & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,postgresql,html,css,js,java,bootstrap,git&theme=dark&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=aws,postgresql,html,css,js,java,bootstrap,git&theme=dark&perline=4"/>
 </a>
 
 ## Solar Sounds - NASA SpaceApps Exeter 2023 Winners!
