@@ -13,16 +13,8 @@
 ## Languages & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,mysql,mongodb,postgresql,html,css,js,java,python,bootstrap,git&theme=dark&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,postgresql,html,css,js,java,bootstrap,git&theme=dark&perline=4"/>
 </a>
-
-
-## GitHub Stats
-
-<a href="https://github.com/jasminappleby/github-readme-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jasminappleby&theme=rose&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt=""/>
-</a>
-
 
 ## Solar Sounds - NASA SpaceApps Exeter 2023 Winners!
 
