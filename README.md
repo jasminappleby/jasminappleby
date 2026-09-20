@@ -12,7 +12,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,postgresql,html,css,js,java,bootstrap,git&theme=dark&perline=4"/>
 </a>
-
-## Solar Sounds - NASA SpaceApps Exeter 2023 Winners!
-
-Check out my contribution to the winning group project at the Exeter NASA SpaceApps <a href="https://github.com/jamesmungall/sonification">here</href>.
